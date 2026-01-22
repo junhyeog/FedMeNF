@@ -1,9 +1,8 @@
-# FedMeNF
+# Official implementation of **"FedMeNF: Privacy-Preserving Federated Meta-Learning for Neural Fields"** (ICCV 2025 Poster)
 
-📄 **Paper:** [![ICCV 2025](https://img.shields.io/badge/ICCV-2025-blue.svg)](https://openaccess.thecvf.com/content/ICCV2025/html/Yun_FedMeNF_Privacy-Preserving_Federated_Meta-Learning_for_Neural_Fields_ICCV_2025_paper.html)
+[![ICCV 2025](https://img.shields.io/badge/ICCV-2025-blue.svg)](https://openaccess.thecvf.com/content/ICCV2025/html/Yun_FedMeNF_Privacy-Preserving_Federated_Meta-Learning_for_Neural_Fields_ICCV_2025_paper.html)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.06301-b31b1b.svg)](https://arxiv.org/abs/2508.06301)
 
-Official implementation of **"FedMeNF: Privacy-Preserving Federated Meta-Learning for Neural Fields"** (ICCV 2025 Poster).
 
 ## Overview
 
